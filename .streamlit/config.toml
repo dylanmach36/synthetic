@@ -1,0 +1,14 @@
+[server]
+enableStaticServing = true
+
+[[theme.fontFaces]]
+family="computermodern"
+url="app/static/NewCM08-Regular.otf"
+style="normal"
+weight=400
+
+[theme]
+font = "computermodern"
+headingFont = "computermodern"
+codeFont = "monospace"
+
